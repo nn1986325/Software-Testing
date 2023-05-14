@@ -1,8 +1,8 @@
-package palindrome1;
+package Nisha1;
 
 import static org.junit.Assert.assertTrue;
 import java.util.Scanner;
-public class palindrome2
+public class palindrome
 {
 	public static void main(String args[]) 
 	{ 
