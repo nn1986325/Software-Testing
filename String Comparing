@@ -1,8 +1,8 @@
-package String1;
+package Nisha1;
 
 import static org.junit.Assert.assertEquals;
 import java.util.Scanner;
-public class String2 {
+public class String {
 public static void main(String [] args)
 { 
 	Scanner in=new Scanner(System.in); 
