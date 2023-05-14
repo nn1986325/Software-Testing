@@ -2,7 +2,7 @@ package Nisha1;
 
 import static org.junit.Assert.assertTrue;
 import java.util.Scanner;
-public class Count2
+public class Count
 { 
 	public static void main(String args[]) 
 	{ 
