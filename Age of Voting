@@ -3,7 +3,7 @@ package Nisha1;
 import static org.junit.Assert.assertTrue;
 
 import java.util.Scanner;
-public class vote2
+public class vote
 { 
 public static void main(String[] args) 
 { 
